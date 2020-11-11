@@ -1,0 +1,383 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "postTitle": "The Secret of Failure",
+      "url": "https://images.unsplash.com/photo-1507065255811-f3b9fe968f84?ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+      "category": "Team",
+      "content": "On a bright sunny morning a group of kids in the neighbourhood found an open field inviting for a game of football.  However, there was an issue—they didn’t have a football kit.  So, the kids decided that each one of them would bring one item to build the kit.  One brought the football, another got the corner flag, and the remaining brought(..)",
+      "userId": 1,
+      "author": "Anny",
+      "postDate": "02-11-2020",
+      "postTime": "2:17 PM"
+    },
+    {
+      "id": 2,
+      "postTitle": "I Am Not the Only One",
+      "url": "https://images.unsplash.com/photo-1506269351850-0428eaed2193?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMjU4fQ&auto=format&fit=crop&w=750&q=80",
+      "category": "Team",
+      "content": "A day in the COVID-19 life. I was out of shape. And so, about 15(..)",
+      "userId": 1,
+      "author": "Shamli",
+      "Date": "02-11-2020",
+      "postTime": "7:05 AM"
+    },
+    {
+      "id": 3,
+      "postTitle": "Hamari Kahani – Version 1",
+      "url": "https://images.unsplash.com/photo-1485237254814-0003b25e5672?ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+      "category": "Attitude",
+      "content": "Co-authored by Shamshu Hirani & Arun Nathani An IT professional while getting ready for work, gazed in the mirror and noticed a grey strand of hair.  “Age is catching up,” he reflected gloomily, “and I still haven’t found my life partner!”  His glance slid down to his old, faded(..)",
+      "userId": 1,
+      "author": "Rachel",
+      "postDate": "01-11-2020",
+      "postTime": "4:17 PM"
+    },
+    {
+      "id": 4,
+      "postTitle": "Hamari Kahani – Version 2",
+      "url": "https://images.unsplash.com/photo-1500073584060-670c36a703f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80",
+      "category": "Attitude",
+      "content": "Co-authored by Rohan Autee & Arun Nathani  An IT professional while getting ready for work, gazed in the mirror and noticed a grey strand of hair.  “Age is catching up,” he reflected gloomily, “and I still haven’t found my life partner!”  His glance slid down to his old, faded(..)",
+      "userId": 1,
+      "author": "Monica",
+      "postDate": "01-11-2020",
+      "postTime": "10:47 PM"
+    },
+    {
+      "id": 5,
+      "postTitle": "Dil Chahta Hai!",
+      "url": "https://images.unsplash.com/photo-1500754088824-ce0582cfe45f?ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80",
+      "category": "Purpose",
+      "content": "Yeh dosti… The older we get, the difficult it becomes to make(..)",
+      "likes": [
+        1,
+        2
+      ],
+      "userId": 1,
+      "author": "Chandler",
+      "comments": [
+        {
+          "userId": 1,
+          "comment": "Nice",
+          "date": "01-11-2020"
+        }
+      ],
+      "postDate": "31-10-2020",
+      "postTime": "4:00 AM"
+    },
+    {
+      "id": 6,
+      "postTitle": "Taare Zameen Par",
+      "url": "https://images.unsplash.com/photo-1501696461415-6bd6660c6742?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+      "category": "Purpose",
+      "content": "Today is Cybage’s Silver Jubilee Anniversary.  It has been a(..)",
+      "likes": [
+        1
+      ],
+      "userId": 1,
+      "author": "Joey",
+      "comments": [
+        {
+          "userId": 2,
+          "comment": "Cool!",
+          "date": "01-11-2020"
+        }
+      ],
+      "postDate": "31-10-2020",
+      "postTime": "11:47 PM"
+    },
+    {
+      "postTitle": "Shamli Food bar ",
+      "content": "My life my rules!!!",
+      "category": "Attitude",
+      "url": "https://source.unsplash.com/user/erondu",
+      "postDate": "07/11/2020",
+      "postTime": "2:46 PM",
+      "author": "shamli",
+      "id": 11
+    },
+    {
+      "postTitle": "Medicure(3 tier Web Application)",
+      "content": "sdfghjkl",
+      "category": "Luck",
+      "url": "https://source.unsplash.com/user/erondu",
+      "postDate": "07/11/2020",
+      "postTime": "3:15 PM",
+      "author": "shamli",
+      "id": 12
+    },
+    {
+      "postTitle": "LOL",
+      "content": "Life is full of surprises!!!!",
+      "category": "Luck",
+      "url": "https://source.unsplash.com/user/erondu",
+      "postDate": "07/11/2020",
+      "postTime": "4:24 PM",
+      "author": "shamli",
+      "id": 13
+    },
+    {
+      "postTitle": "Shamli Food bar ",
+      "content": "This is what I love!",
+      "category": "Attitude",
+      "url": "https://source.unsplash.com/random",
+      "postDate": "07/11/2020",
+      "postTime": "9:31 PM",
+      "author": "shamli",
+      "id": 14
+    },
+    {
+      "postTitle": "",
+      "content": "<blockquote style=\"text-align: center;\"><ul><li><hr id=\"null\"><hr id=\"null\"><span style=\"font-weight: bold; color: rgb(0, 0, 0);\">WOW</span></li></ul></blockquote>",
+      "category": "Luck",
+      "url": "",
+      "postDate": "07/11/2020",
+      "postTime": "9:34 PM",
+      "author": "shamli",
+      "id": 15
+    },
+    {
+      "postTitle": "My journey",
+      "content": "This is great!!",
+      "category": "Attitude",
+      "url": "https://images.unsplash.com/photo-1544185310-0b3cf501672b?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "postDate": "10/11/2020",
+      "postTime": "12:44 PM",
+      "author": null,
+      "id": 16
+    },
+    {
+      "postTitle": "RWDFiles",
+      "content": "<h5 style=\"text-align: center;\"><span style=\"font-family: &quot;courier new&quot;, monospace; font-size: xx-large; font-weight: bold; text-decoration-line: underline; font-style: italic;\">Wow lunch break!</span></h5>",
+      "category": "Attitude",
+      "url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "postDate": "10/11/2020",
+      "postTime": "12:45 PM",
+      "author": null,
+      "id": 17
+    },
+    {
+      "postTitle": "My journey in Life",
+      "content": "<h2>This is so cool!!!</h2>",
+      "category": "Attitude",
+      "url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "postDate": "10/11/2020",
+      "postTime": "3:04 PM",
+      "author": null,
+      "id": 18
+    },
+    {
+      "postTitle": "Life is what ypu make it!",
+      "content": "This is so awesome ya!!",
+      "category": "Luck",
+      "url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "postDate": "10/11/2020",
+      "postTime": "3:05 PM",
+      "author": null,
+      "id": 19
+    },
+    {
+      "postTitle": "RWD",
+      "content": "<hr id=\"null\">Thasd<hr id=\"null\">tsfdash<hr id=\"null\">",
+      "category": "Attitude",
+      "url": "https://images.unsplash.com/photo-1547555999-14e818e09e33?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "postDate": "10/11/2020",
+      "postTime": "3:26 PM",
+      "author": null,
+      "id": 20
+    },
+    {
+      "postTitle": "My journey in CDAC",
+      "content": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 255); font-style: italic; font-weight: bold; text-decoration-line: underline;\">CDAC batch 2019</span></div><hr id=\"null\">",
+      "category": "Purpose",
+      "url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "postDate": "10/11/2020",
+      "postTime": "4:07 PM",
+      "author": null,
+      "id": 21
+    },
+    {
+      "postTitle": "My journey in Life",
+      "content": "THishA",
+      "category": "Purpose",
+      "url": "https://images.unsplash.com/photo-1547555999-14e818e09e33?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "postDate": "10/11/2020",
+      "postTime": "4:47 PM",
+      "author": "shamli",
+      "id": 22
+    },
+    {
+      "postTitle": "Project Files",
+      "content": "<span style=\"font-weight: bold;\">Wow!</span>",
+      "category": "Purpose",
+      "url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "postDate": "10/11/2020",
+      "postTime": "6:18 PM",
+      "author": "shamli",
+      "id": 23
+    },
+    {
+      "postTitle": "My journey",
+      "content": "This is so good!!!!",
+      "category": "Purpose",
+      "url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "postDate": "11/11/2020",
+      "postTime": "9:31 AM",
+      "author": "shamli",
+      "id": 24
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "Anny",
+      "password": "abc"
+    },
+    {
+      "id": 2,
+      "userName": "Rhea",
+      "password": "abc"
+    },
+    {
+      "id": 3,
+      "userName": "Rachel",
+      "password": "abc"
+    },
+    {
+      "id": 4,
+      "userName": "Monica",
+      "password": "abc"
+    }
+  ],
+  "profile": [
+    {
+      "userId": "1",
+      "profilePic": "../images/minion6.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "profilePic": "../images/minion2.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 2,
+      "userId": 1,
+      "userName": "Anny",
+      "comment": "This is amazing"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "userId": 2,
+      "userName": "Rhea",
+      "comment": "This is amazing"
+    },
+    {
+      "postId": 1,
+      "userId": "1",
+      "comment": "hey there",
+      "userName": "Anny",
+      "id": 4
+    },
+    {
+      "postId": 1,
+      "userId": "1",
+      "comment": "reply me bro",
+      "userName": "Anny",
+      "id": 5
+    },
+    {
+      "postId": 4,
+      "userId": "1",
+      "comment": "hi this is hamari kahani",
+      "userName": "Anny",
+      "id": 6
+    },
+    {
+      "postId": 4,
+      "userId": "1",
+      "comment": "this is hamari kahani 2",
+      "userName": "Anny",
+      "id": 7
+    },
+    {
+      "postId": 4,
+      "userId": "1",
+      "comment": "this is hamari kahani 3",
+      "userName": "Anny",
+      "id": 8
+    },
+    {
+      "postId": 1,
+      "userId": "1",
+      "comment": "fhgasdv tghsjidf b",
+      "userName": "Anny",
+      "id": 9
+    },
+    {
+      "postId": 2,
+      "userId": "1",
+      "comment": "hiiii how are u",
+      "userName": "Anny",
+      "id": 10
+    },
+    {
+      "postId": 1,
+      "userId": "1",
+      "comment": "affgyh",
+      "userName": "Anny",
+      "id": 11
+    },
+    {
+      "postId": 1,
+      "userId": "1",
+      "comment": "hi  sdfjsagfagcv 213423543",
+      "userName": "Anny",
+      "id": 12
+    },
+    {
+      "postId": 2,
+      "userId": "1",
+      "comment": "wow",
+      "userName": "Anny",
+      "id": 13
+    }
+  ],
+  "likes": [
+    {
+      "id": 1,
+      "postId": 2,
+      "userName": "Anny",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "postId": 3,
+      "userName": "Anny",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "userName": "Rhea",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "postId": 4,
+      "userName": "Anny",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "postId": 5,
+      "userName": "Anny",
+      "userId": 1
+    }
+  ]
+}
